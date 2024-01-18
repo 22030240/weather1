@@ -1,0 +1,2 @@
+?q={city name}&appid={API key}
+onClick={getInformationOfWeather}
